@@ -22,6 +22,22 @@
         "price" : 2012,
         "discount" : 10,
         "photo" : "C:/Users/1839289/Downloads/abc.jpg"
+      },
+        {
+        "name" : "Titan",
+        
+      "features" : ["waterproof", "gold plated", "<strong>chain_type</strong>"],
+        "price" : 2012,
+        "discount" : 10,
+        "photo" : "C:/Users/1839289/Downloads/abc.jpg"
+      },
+        {
+        "name" : "Titan",
+        
+      "features" : ["waterproof", "gold plated", "<strong>chain_type</strong>"],
+        "price" : 2012,
+        "discount" : 10,
+        "photo" : "C:/Users/1839289/Downloads/abc.jpg"
       }
     ]
   }
