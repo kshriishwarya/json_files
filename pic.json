@@ -1,17 +1,60 @@
- {
-  "urls": [
+{
+  "watches": [
     {
-      "movieTitle": "Ender's Game",
-      "movieDirector": "Gavin Hood",
-      "movieImage": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/3/movie-endersgame.jpg"
-    }, {
-      "movieTitle": "The Fifth Estate",
-      "movieDirector": "Bill Condon",
-      "movieImage": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/3/movie-thefifthestate.jpg"
-    }, {
-      "movieTitle": "Escape Plan",
-      "movieDirector": "Mikael Håfström",
-      "movieImage": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/3/movie-escapeplan.jpg"
+      "name" : "Fossil",
+      
+      "features" : ["waterproof", "gold plated", "<strong>chain_type</strong>"],
+      "price" : 10000,
+      "discount":20,
+      "photo" : "C:/Users/1839289/Downloads/abc.jpg"
+    },
+    {
+      "name" : "Fast Track",
+      
+      "price" : 2008,
+      "discount":40,
+      "photo" : "C:/Users/1839289/Downloads/abc.jpg"
+    },
+    {
+      "name" : "Titan",
+      
+    "features" : ["waterproof", "gold plated", "<strong>chain_type</strong>"],
+      "price" : 2012,
+      "discount" : 10,
+      "photo" : "C:/Users/1839289/Downloads/abc.jpg"
+    },
+      {
+      "name" : "Sonata",
+      
+    "features" : ["waterproof", "gold plated", "<strong>chain_type</strong>"],
+      "price" : 2012,
+      "discount" : 10,
+      "photo" : "C:/Users/1839289/Downloads/abc.jpg"
+    },
+      {
+      "name" : "...",
+      
+    "features" : ["waterproof", "gold plated", "<strong>chain_type</strong>"],
+      "price" : 2012,
+      "discount" : 10,
+      "photo" : "C:/Users/1839289/Downloads/abc.jpg"
+    },
+      {
+      "name" : "...",
+      
+    "features" : ["waterproof", "gold plated", "<strong>chain_type</strong>"],
+      "price" : 2012,
+      "discount" : 10,
+      "photo" : "C:/Users/1839289/Downloads/abc.jpg"
+    },
+{
+      "name" : "...",
+      
+    "features" : ["waterproof", "gold plated", "<strong>chain_type</strong>"],
+      "price" : 2012,
+      "discount" : 10,
+      "photo" : "C:/Users/1839289/Downloads/abc.jpg"
     }
+      
   ]
 }
